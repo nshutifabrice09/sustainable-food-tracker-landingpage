@@ -6,6 +6,11 @@
     "analytics": "d9c6e953-50ba-452d-8a65-f56cbcda69fa"
   },
   "newProjectRoot": "projects",
+  "schematics": {
+    "@schematics/angular:component": {
+      "style": "scss"
+    }
+  },
   "projects": {
     "sustainable-food-tracker-landingpage": {
       "projectType": "application",
