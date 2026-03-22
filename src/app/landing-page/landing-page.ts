@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-landing-page',
   imports: [],
   templateUrl: './landing-page.html',
-  styleUrl: './landing-page.css',
+  styleUrl: './landing-page.scss',
 })
 export class LandingPage {
 
